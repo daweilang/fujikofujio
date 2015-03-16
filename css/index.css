@@ -1,0 +1,59 @@
+body,td,th {
+	font-family: ‚l‚r ‚oƒSƒVƒbƒN, Osaka, ƒqƒ‰ƒMƒmŠpƒS Pro W3;
+	font-size: 12px;
+	line-height:1.5;
+	color: #000000;
+}
+
+.text {font-family: ‚l‚r ‚oƒSƒVƒbƒN, Osaka, ƒqƒ‰ƒMƒmŠpƒS Pro W3;
+	font-size: 13px;
+	line-height:1.8;
+	color: #000000;
+}
+
+body {
+	background-image: url(../img/background.gif);
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+
+h1 {	font-size: 18px;
+	font-weight: normal;
+}
+h2 {	font-size: 16px;
+	font-weight: normal;
+}
+
+.red {color: #FF0000}
+.blue {color: #0066FF}
+.cyan {color: #0099FF}
+.magenta {color: #FF0066}
+.yellow {color: #FF9900}
+.green {color: #009900}
+.deepgreen {color: #006600}
+.orange {color: #FF3300}
+.white {color: #FFFFFF}
+.gray {color: #999999}
+
+.small {font-size: 11px; line-height: 1.5; }
+.middle {font-size: 14px; line-height: 1.8; }
+.big {font-size: 16px; line-height: 2; }
+
+a:link {
+	color: #0066CC;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #0033CC;
+}
+a:hover {
+	text-decoration: none;
+	color: #FF0000;
+}
+a:active {
+	text-decoration: none;
+	color: #0000CC;
+}
