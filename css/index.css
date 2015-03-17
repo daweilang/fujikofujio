@@ -62,3 +62,8 @@ a:active {
 	text-decoration: none;
 		color: #FFFFFF;
 }
+
+a.copylink {
+	text-decoration: none;
+	color: #FF0000;
+}
